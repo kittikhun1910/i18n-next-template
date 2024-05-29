@@ -1,0 +1,20 @@
+{
+  "IndexPage": {
+    "title": "Why aren't modern songs good?",
+    "description": "Why aren't the songs today as good as in the past?… As soon as a friend asked, I smiled and replied teasingly, We're starting to get old. If we go through adolescence or high school-university age The age group where most people listen to music the most You've probably heard sentences from older people saying things like that to the songs we listened to at that time. What song isn't good at all?... , There's nothing in the music these days, I don't know...so much it seems normal. One generation will be questioned by another generation about the music they are listening to these days, saying that what music they listen to, they don't understand, don't see as good, or that the music these days isn't good at all. As of today, if we are 30 years old or older, It will start to dawn on us that today's music isn't good at all."
+  },
+  "AboutPage": {
+    "title": "Our musical tastes start to become paralyzed after age 30",
+    "description": "Of course, not everyone or all the time feels that modern music is not good. But for the most part Our musical tastes start to become paralyzed after the age of 30, and this becomes more severe. If we don't count that we work related to music. It's not just about the songs. But it may be called We will begin to be “Paralysis of taste” can also occur, such as when it comes to dressing. Going to different places, food, and food, the older we get, we tend to like the same things or think about the old things."
+  },
+  "HomePage": {
+    "title": "not required",
+    "description": "Personally, at a young age I used to think that we wouldn't be anything like that. We are ready to accept new music, fashion or anything that comes our way. But when he really reached his age, it was the same with him. I began to like listening to the same old songs, watching old movies, and losing interest in many things that I had to follow. Why? (Even though we listen to new music and watch new movies, “most” we don't like it as much as the old stuff from the past - a part of us usually also likes to listen to songs older than our own era. So it goes back even further."
+  },
+
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  }
+}
